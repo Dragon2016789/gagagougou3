@@ -67,4 +67,4 @@ Des tailles, (plusieurs unités sont possibles)
 
 remarque quand le sélecteur CSS est un élément html (par exemple 'p') alors les propriétés s'applique a tout les éléments du même type 
 
-Pour différencier des élements de même nature on peut utiliser l'attribut 'classe' ou 'id' . Dans se cas le selecteur est le nom d'une classe précédé par '.' ou le nom 
+Pour différencier des élements de même nature on peut utiliser l'attribut 'classe' ou 'id' . Dans se cas le selecteur est le nom d'une classe précédé par '.' ou le nom de l'identifiant précédé d'un 

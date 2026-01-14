@@ -28,3 +28,8 @@ img{
 
     margin-left: 40%;
 }
+
+hl{
+    border-style: dotted;
+    border-bottom: 50%;
+}

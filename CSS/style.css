@@ -30,6 +30,5 @@ img{
 }
 
 hl{
-    border-style: dotted;
-    border-bottom: 50%;
+    border-bottom: solid;
 }

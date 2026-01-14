@@ -19,7 +19,11 @@ P{
 .deux{
     background-color: cornsilk;
     width: 44%;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+/*Beaucoup de sites utilisent des fontes externes*/
 img{
     height: 200px;
     border-style: solid;
@@ -30,6 +34,6 @@ img{
     margin-left: 40%;
 }
 
-hl{
+h1{
     border-bottom: solid;
 }

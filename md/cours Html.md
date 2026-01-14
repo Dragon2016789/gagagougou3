@@ -77,4 +77,5 @@ Trois propriétés importantes sont liées a se modèle:
 - 'padding' pou l'espace interne
 - 'margin' pour la marge autour de la bordure
 
-Rem: il existe des propriétés specifique 
+Rem: il existe des propriétés specifiques au texte, en particulier:
+- 'text-align' pour justifier le texte

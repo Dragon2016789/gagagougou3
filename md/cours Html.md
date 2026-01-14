@@ -78,4 +78,9 @@ Trois propriétés importantes sont liées a se modèle:
 - 'margin' pour la marge autour de la bordure
 
 Rem: il existe des propriétés specifiques au texte, en particulier:
-- 'text-align' pour justifier le texte
+- 'text-align' pour justifier le texte.
+- 'font' pour la police de caractères
+
+
+Ils existe deux balises HTML universelles qui permet de grouper des éléments ou du texte 
+-'<div></div>

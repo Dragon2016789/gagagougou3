@@ -63,3 +63,8 @@ Des tailles, (plusieurs unités sont possibles)
   'px' pour pixels
   'em' relatif a la taille de la police
   '%' relatif a la taille du contenant
+
+
+remarque quand le sélecteur CSS est un élément html (par exemple 'p') alors les propriétés s'applique a tout les éléments du même type 
+
+Pour différencier des élements de même nature on peut utiliser l'attribut 'classe' ou 'id' . Dans se cas le selecteur est le nom d'une classe précédé par un point 

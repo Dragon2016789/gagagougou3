@@ -9,4 +9,16 @@ P{
     width: 50%
 
 }
-{}
+
+.premier{
+    background-color: brown;
+    width: 33%;
+}
+
+.deux{
+    background-color: cornsilk;
+    width: 44%;
+}
+img{
+    height: 200px;
+}

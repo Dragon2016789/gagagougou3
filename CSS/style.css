@@ -22,5 +22,9 @@ P{
 img{
     height: 200px;
     border-style: solid;
-    padding: 10%;
+    border-radius: 20%;
+    border-color: #8a2be2;
+    padding: 20px;
+
+    margin-left: 40%;
 }

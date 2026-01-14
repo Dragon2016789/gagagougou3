@@ -72,4 +72,9 @@ Pour différencier des élements de même nature on peut utiliser l'attribut 'cl
 Rem: le contenu d'un élément HTML suit le principe du modèle en boite .
 [](https://www.w3schools.com/Css/css_boxmodel.asp)
 
-Trois 
+Trois propriétés importantes sont liées a se modèle:
+- 'border' pour le style de bordure
+- 'padding' pou l'espace interne
+- 'margin' pour la marge autour de la bordure
+
+Rem: il existe des propriétés specifique 

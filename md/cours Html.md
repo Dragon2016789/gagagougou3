@@ -84,3 +84,22 @@ Rem: il existe des propriétés specifiques au texte, en particulier:
 
 Ils existe deux balises HTML universelles qui permet de grouper des éléments ou du texte 
 -'<div></div>
+- <span></span>
+
+
+
+3. Javascript
+
+ctrl + shift + i
+
+Il s'agit d'un languge de programmation comme Python mais initialement dédié au WEB.
+
+C'est un language prévu pour intéragire avec une page html : le documentpeut se représenter ainsi
+
+Le JS permet de rendre une page HTML plus dynamique notament grâce au formulaires '<form></form>'
+
+Les éléments html interactif sont généralement des '<input type"">':
+- button
+- checkbox
+- text
+- range

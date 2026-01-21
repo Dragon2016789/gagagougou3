@@ -4,18 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="styleheet" href=".CSS/style2.css">
 </head>
 <body>
-    <hl> Jouons avec HS et les éléments HTML interactif </hl>
+   
+    <h1> Jouons avec HS et les éléments HTML interactif </h1>
+    <h1 class = "t2">Voici un second titre</h1>
     <form action ="">
-        <input type ="range" name="range" id=""range">
-        <input type ="button" value="Clique">
+        <input type ="range" name="range" id="range"value="25">
+        <input type ="button" value="Clique" id="btn">
         <input type ="checkbox" name="box" id="box">
         <input type ="text" name="text" id="text">
 
-
-
-
     </form>
+     <script>
+        //let titre = document.querySelector(".t2");
+        //console.log(titre);
+        
+        //let curseur = document.getElementById("range");
+        //console.log(curseur.value);
+
+        let bouton = document.querySelector("btn");
+        bouton.addEventListener("click", function(){
+            console.log(titre.style.color);
+        });
+    </script>
 </body>
 </html>

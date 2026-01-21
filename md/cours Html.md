@@ -103,3 +103,37 @@ Les éléments html interactif sont généralement des '<input type"">':
 - checkbox
 - text
 - range
+- password
+
+Pour écrire du JS on utilise les balise '<script></script>' et :
+- On écrit directement le code dans le fichier HTML
+- On écrit le code dans le fichier .js
+
+pour attrapper un élément sur la page afin de la manipuler avec JS, on peut utiliser:
+- 'querySelector()'
+- 'getElementById()'
+
+On écrira :
+```js
+let elementHTML = document.querySelector("");//avec un selecteur css 
+let elementHTML = document.getElementById("");// avec un id
+
+La plupart des éléments HTML interactifs ont une propriétés `value`.
+
+'''js
+console.log(élémentHTML.value);
+'''
+
+JS est capable d'associer un évènement à un élément HTML:
+-click
+-change
+-input
+-mouseover ...
+
+On utilise la méthode 'addEventListener()'
+
+'''js
+elementHTML.addEventListener("click", function(){
+  // faire qqchose
+});
+'''

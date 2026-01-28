@@ -70,4 +70,5 @@ Pour éditer un fichier plusieurs commandes/éditeurs sont possibles :
 - `nano` (dans ce cours)
 - `vi`
 - `emacs`
-
+------------------
+Dans la console ./ est facultatif

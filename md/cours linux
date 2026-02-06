@@ -143,6 +143,6 @@ On peut agir (`find`, `cp`, `rn`,...) sur un fichiers sans en connaître le nom 
 |wildcard|signification|exemple|
 |----|----|----|
 |`*`|autant de caractère que l'on veut|`ls f*`|
-||||
-||||
-||||
+|`?`|exactement un caractère|`ls file?.txt`|
+|[arq] ou [a-r]|un des caractères dans la liste|`ls file[arq]*`|
+|`[!a-r]`|un caractère qui n'est pas dans la liste|`ls file[!arq]*`|
